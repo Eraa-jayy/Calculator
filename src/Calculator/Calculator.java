@@ -11,7 +11,7 @@ package Calculator;
 public class Calculator extends javax.swing.JFrame {
 
     /**
-     * Creates new form Calculator
+     * Creates new Calculator
      */
     
     double NumEnter1;
