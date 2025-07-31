@@ -86,7 +86,7 @@ public class Calculator extends javax.swing.JFrame {
                 btnBsActionPerformed(evt);
             }
         });
-        getContentPane().add(btnBs, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 110, 50, 50));
+        getContentPane().add(btnBs, new org.netbeans.lib.awtextra.AbsoluteConstraints(15, 110, 50, 50));
 
         btnCancel.setFont(new java.awt.Font("Segoe UI", 1, 18)); // NOI18N
         btnCancel.setText("C");
